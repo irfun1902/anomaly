@@ -1,0 +1,2 @@
+# anomaly
+Aplikasi deteksi anomali
